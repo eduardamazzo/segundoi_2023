@@ -1,2 +1,2 @@
 # segundoi
-NICOLE N29 EDUARDA N 8
+# NICOLE N:29 e EDUARDA N:8
