@@ -1,5 +1,10 @@
-.barra{
-background-color: rgb(142, 231, 119);
-
+.menu1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 12px 0;
+}
+.menu2{
+    background: #b0884c;
 }
 
